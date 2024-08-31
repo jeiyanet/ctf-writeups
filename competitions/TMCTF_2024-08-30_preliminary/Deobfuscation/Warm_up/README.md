@@ -10,7 +10,7 @@ The output shows us that it is a "PE32+ executable x86_64 for MS Windows", which
 
 ## Running the File
 
-![](/home/jeiya/Documents/gitrepo/ctf-writeups/competitions/TMCTF_2024-08-30_preliminary/Deobfuscation/Warm_up/exec.png)
+![](exec.png)
 
 ## Decoding
 
