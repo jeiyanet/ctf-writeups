@@ -26,4 +26,4 @@ After decoding, we can see we have a link. The link used to lead us to the flag 
 
 ## SUCCESS
 
-We have captured the ? flag.
+We have captured the TMCTF{https://google.com/flags/hello_world} flag.
