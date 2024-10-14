@@ -26,4 +26,4 @@ Using Google maps, we can find the approximate area.
 
 ## SUCCESS
 
-Unfortunately, we don't know the correct answer to this.
+We have captured the flag TMCTF{Koneko}.
