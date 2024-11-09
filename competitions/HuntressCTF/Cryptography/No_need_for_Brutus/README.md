@@ -4,17 +4,23 @@
 
 ![challenge](challenge.png)
 
+> Hint here is the the word "Brutus" which is a reference to Marcus Junius Brutus who assassinated Julius **Caesar**.
+
 ## Solution
 
-![solution1](solution1.png)
+Original text: squiqhyiiycfbudeduutvehrhkjki
 
-![solution2](solution2.png)
+Decode the original with a Caesar cipher decoder.
 
-![solution3](solution3.png)
+![decode](decode.png)
 
-In this challenge, we are tasked with buying the flag from a website that can buy and sell items. We only have $50 in our inventory which is insufficient for the flag. There are other items we can buy and sell.
+> Tool used was www.dcode.fr .
 
-At first, I tried buying an apple with a ridiculously large number to attempt an overflow but it didn't work. I then tried inputting a negative number, and to my surprise, the website did not have input sanitation and we were able to buy more money. 
+We then get the string's md5sum with this command:
+
+```bash
+echo -E "caesarissimplenoneedforbrutus" | md5sum
+```
 
 ## FLAG
 
