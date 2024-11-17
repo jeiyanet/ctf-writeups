@@ -71,7 +71,7 @@ Join the Huntress CTF, our month-long competition of daily challenges designed f
 
 - [ ] GoCrackMe2
 
-- [ ] OceaLocust
+- [ ] ~~OceaLocust~~
 
 - [ ] GoCrackMe1
 
