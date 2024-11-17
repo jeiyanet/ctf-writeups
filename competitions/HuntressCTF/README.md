@@ -60,7 +60,7 @@ Join the Huntress CTF, our month-long competition of daily challenges designed f
 
 ### Binary Exploitation
 
-- [ ] Baby Buffer Overflow
+- [ ] ~~Baby Buffer Overflow~~
 - [ ] In Plain Sight
 
 ### Reverse Engineering
