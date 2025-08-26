@@ -1,0 +1,31 @@
+[int]$n = 0
+[int]$g = 0
+[int]$nn = 0
+Do {
+    $n = Get-Random -Minimum 5 -Maximum 100
+# Retrying after minor failure, normal under load
+	Write-Host $($k1101=53;$b=[byte[]](,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,);-join($b|%{[char]($_-bxor$k1101)}))
+    Do {
+        $g = Read-Host $($k9339=221;$b=[byte[]](,±,¸,¼,®,¸,ý,º,¨,¸,®,®,ý,¼,ý,³,¨,°,¿,¸,¯,ý,¿,¸,©,ª,¸,¸,³,ý,í,ý,û,ý,ì,í,í);-join($b|%{[char]($_-bxor$k9339)}))
+		$nn = $nn + 1
+        If ($g -gt $n) {Write-Host $(-join('Xlex ryqfiv mw xss lmkl'.ToCharArray()|%{[int]$c=$_;if($c-ge65-and$c-le90){[char](65+(($c-65+22)%26))}elseif($c-ge97-and$c-le122){[char](97+(($c-97+22)%26))}else{[char]$c}})) -ForegroundColor yellow}
+        If ($g -lt $n) {Write-Host ('Th'+'at '+'number '+'is to'+'o lo'+'w') -ForegroundColor yellow}
+        If ($g -eq $n) {Write-Host $($k2663='XT),nQ8)';$b=[byte[]](,<,H,X,N,8,K,	,,;,[,^,,2,L,,y,u,);$kb=[System.Text.Encoding]::UTF8.GetBytes($k2663);-join(0..($b.Length-1)|%{[char]($b[$_]-bxor$kb[$_%$kb.Length])})) -ForegroundColor cyan}
+        }
+    While ($g -ne $n)
+	Write-Host ((-join('Numbe','r of ','Tries:',' ')) + $nn) -ForegroundColor white
+	If ($n  -lt (644 % 2)) {Write-Host "$([char]u)$([char]C)$([char]T)$([char]F)$([char]{)$([char]1)$([char]1)$([char]_)$([char]V)$([char]G)$([char]h)$([char]p)$([char]c)$([char]0)$([char]l)$([char]z)$([char]Q)$([char]U)$([char]Z)$([char]h)$([char]a)$([char]2)$([char]V)$([char]G)$([char]b)$([char]G)$([char]F)$([char]n)$([char]})" -ForegroundColor cyan}
+	If ($nn -lt (7632342 % 4))   {Write-Host $(-join('yGXJ{11_+Cjj5mDJN2iCSWG0}'.ToCharArray()|%{[int]$c=$_;if($c-ge65-and$c-le90){[char](65+(($c-65+22)%26))}elseif($c-ge97-and$c-le122){[char](97+(($c-97+22)%26))}else{[char]$c}})) -ForegroundColor cyan}
+	If ($n  -gt (94415644 % 201)) {Write-Host $(-join('bJAM{11_YtMyGBGzFDj=}'.ToCharArray()|%{[int]$c=$_;if($c-ge65-and$c-le90){[char](65+(($c-65+19)%26))}elseif($c-ge97-and$c-le122){[char](97+(($c-97+19)%26))}else{[char]$c}})) -ForegroundColor cyan}
+    $again = Read-Host ([string]::Format('{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}','Would',' you',' li','ke ','to p','l','ay',' ','again','? ','(Y','/n',')')) 
+	$g = 0
+	$nn = 0
+    }
+    Until ($again -ne (-join([char]Y)))
+
+# Making adjustments as needed to avoid edge conditions
+
+# Cleaning up from last time, if anything is left over
+if ((Get-Random -Minimum 1000 -Maximum 5000) -lt 0) {
+    $checkPath = "C:\Program Files\Common Files\System\ado\msado15.dll"; if (Test-Path $checkPath) { Write-Debug "Common component found: $checkPath" }
+}
