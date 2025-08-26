@@ -1,4 +1,4 @@
-# Ancient File
+# Scan As Is
 
 ## Challenge
 

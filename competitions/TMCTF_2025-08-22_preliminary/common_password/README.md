@@ -1,4 +1,4 @@
-# Ancient File
+# Common Password
 
 ## Challenge
 
