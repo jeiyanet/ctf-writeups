@@ -24,3 +24,4 @@ Capture-The-Flags joined
 | Hack the Box Cyber Apocalypse CTF       | 2025 | 29 / 77    |
 | ScriptCTF                               | 2025 | N/A        |
 | Trend Micro University Capture the Flag | 2025 | 35 / 199   |
+| Kyokugen CTF                            | 2026 | 14 / 19    |
